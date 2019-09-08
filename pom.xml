@@ -18,6 +18,7 @@
     <modules>
         <module>account-svc</module>
         <module>store-common-lib</module>
+        <module>account-api</module>
     </modules>
 
     <dependencyManagement>

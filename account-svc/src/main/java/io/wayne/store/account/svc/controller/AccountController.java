@@ -1,4 +1,4 @@
-package io.wayne.store.accountsvc.controller;
+package io.wayne.store.account.svc.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

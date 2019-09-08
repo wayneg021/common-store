@@ -1,4 +1,4 @@
-package io.wayne.storecommonlib;
+package io.wayne.store.account.svc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class StoreCommonLibApplicationTests {
+public class AccountSvcApplicationTests {
 
     @Test
     public void contextLoads() {
